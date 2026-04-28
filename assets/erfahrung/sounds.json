@@ -1,0 +1,14 @@
+{
+  "coins.gain": {
+    "category": "player",
+    "sounds": [
+      "erfahrung:coins_gain"
+    ]
+  },
+  "schimmer.gain": {
+    "category": "player",
+    "sounds": [
+      "erfahrung:schimmer_gain"
+    ]
+  }
+}
