@@ -1,6 +1,9 @@
 {
   "class.erfahrung.none": "(keine Klasse)",
   "class.erfahrung.warrior": "Krieger",
+  "class.erfahrung.berserker": "Berserker",
+  "class.erfahrung.guardian": "Beschützer",
+  "class.erfahrung.vanguard": "Vorhut",
 
   "attribute.erfahrung.strength": "St\u00e4rke",
   "attribute.erfahrung.strength.description": "Erh\u00f6ht den Nahkampfschaden.",
@@ -16,8 +19,23 @@
   "attribute.erfahrung.warden_resolve": "W\u00e4chters Entschluss",
   "attribute.erfahrung.assassin_mark": "Mal des Meuchlers",
 
+  "erfahrung.skill_attributes.strength.name": "St\u00e4rke",
+  "erfahrung.skill_attributes.vitality.name": "Vitalit\u00e4t",
+  "erfahrung.skill_attributes.endurance.name": "Ausdauer",
+  "erfahrung.skill_attributes.fury.name": "Wut",
+  "erfahrung.skill_attributes.swiftness.name": "Flinkheit",
+  "erfahrung.skill_attributes.leap.name": "Sprungkraft",
+  "erfahrung.skill_attributes.reach.name": "Reichweite",
+  "erfahrung.skill_attributes.wrath.name": "Zorn",
+  "erfahrung.skill_attributes.rampage.name": "Wucht",
+  "erfahrung.skill_attributes.bloodlust.name": "Blutrausch",
+  "erfahrung.skill_attributes.fortitude.name": "Standhaftigkeit",
+  "erfahrung.skill_attributes.steadfast.name": "Gepanzert",
+  "erfahrung.skill_attributes.tenacity.name": "Zähigkeit",
+
   "bossbar.erfahrung.no_class": "Level %s",
   "bossbar.erfahrung.with_class_sp": "[%s] Level %s \u2022 %s FP \u2022 %s MP",
+  "bossbar.erfahrung.level_sp": "Level %s \u2022 %s FP",
 
   "command.erfahrung.console_needs_player": "Konsole muss einen Spieler angeben.",
   "command.erfahrung.no_match": "Kein passender Spieler.",
@@ -35,6 +53,9 @@
   "command.erfahrung.traits.no_class": "W\u00e4hle zuerst eine Klasse mit /class choose <class>.",
   "command.erfahrung.traits.no_sp": "Nicht genug Fertigkeitspunkte.",
   "command.erfahrung.traits.no_tp": "Nicht genug Merkmalspunkte.",
+
+  "command.erfahrung.skills.no_points": "Nicht genug Fertigkeitspunkte.",
+  "command.erfahrung.skills.unknown_tree": "Unbekannter Skilltree: %s",
 
   "command.erfahrung.knowledge_orb.at_cap": "Du bist bereits auf dem maximalen Level.",
 
@@ -82,6 +103,22 @@
   "ui.erfahrung.shop.info.page": "Seite %1$s / %2$s",
   "ui.erfahrung.shop.info.balance": "%1$s: %2$s",
 
+  "ui.erfahrung.skills.title": "%s – Skills",
+  "ui.erfahrung.skills.title.unknown": "Skills",
+  "ui.erfahrung.skills.preview.title": "Skills",
+  "ui.erfahrung.skills.preview.lore.open": "Klicke zum Öffnen",
+  "ui.erfahrung.skills.info.level": "Level: %s",
+  "ui.erfahrung.skills.info.points": "Fertigkeitspunkte: %s",
+  "ui.erfahrung.skills.lore.entry": "Wurzel des Skilltrees",
+  "ui.erfahrung.skills.lore.cost": "Kosten: %s FP",
+  "ui.erfahrung.skills.lore.click_to_unlock": "Klicke zum Freischalten",
+  "ui.erfahrung.skills.lore.need_points": "Nicht genug Fertigkeitspunkte",
+  "ui.erfahrung.skills.lore.owned": "Freigeschaltet",
+  "ui.erfahrung.skills.lore.locked": "Schalte zuerst einen benachbarten Slot frei",
+  "ui.erfahrung.skills.rankup.name": "Aufstieg: %s",
+  "ui.erfahrung.skills.rankup.lore": "Spezialisierungs-Pforte",
+  "ui.erfahrung.skills.rankup.taken_other": "Eine andere Spezialisierung ist bereits gewählt",
+
   "ui.erfahrung.traits.title": "Merkmale: %s",
   "ui.erfahrung.stats.title": "Statistiken",
   "ui.erfahrung.stats.lore.level": "Level: %s",
@@ -117,6 +154,19 @@
   "ui.erfahrung.traits.info.traitpoints": "Merkmalspunkte: %s",
   "ui.erfahrung.traits.info.owned_count": "Merkmale freigeschaltet: %s",
   "ui.erfahrung.traits.info.focused": "Fokussiert: %s",
+
+  "trait.erfahrung.toughness": "Robustheit",
+  "trait.erfahrung.toughness.description": "Permanent +1 Rüstung.",
+  "trait.erfahrung.heavy_hand": "Schwere Hand",
+  "trait.erfahrung.heavy_hand.description": "Permanent +0,5 Angriffsschaden.",
+  "trait.erfahrung.vigor": "Lebenskraft",
+  "trait.erfahrung.vigor.description": "Permanent +1 max. Leben (ein Herz).",
+  "trait.erfahrung.resolve": "Entschlossenheit",
+  "trait.erfahrung.resolve.description": "-5%% erlittener Schaden aus allen Quellen.",
+  "trait.erfahrung.bloodied": "Blutgetränkt",
+  "trait.erfahrung.bloodied.description": "Heilt 1 LP bei jedem Kill.",
+  "trait.erfahrung.hardened": "Abgehärtet",
+  "trait.erfahrung.hardened.description": "Halbiert Sturzschaden.",
 
   "trait.erfahrung.bloodrage": "Blutrausch",
   "trait.erfahrung.bloodrage.description": "+2 Angriffsschaden unter 50%% Leben.",

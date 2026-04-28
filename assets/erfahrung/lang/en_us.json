@@ -1,6 +1,9 @@
 {
   "class.erfahrung.none": "(no class)",
   "class.erfahrung.warrior": "Warrior",
+  "class.erfahrung.berserker": "Berserker",
+  "class.erfahrung.guardian": "Guardian",
+  "class.erfahrung.vanguard": "Vanguard",
 
   "attribute.erfahrung.strength": "Strength",
   "attribute.erfahrung.strength.description": "Increases melee damage.",
@@ -16,8 +19,23 @@
   "attribute.erfahrung.warden_resolve": "Warden's Resolve",
   "attribute.erfahrung.assassin_mark": "Assassin's Mark",
 
+  "erfahrung.skill_attributes.strength.name": "Strength",
+  "erfahrung.skill_attributes.vitality.name": "Vitality",
+  "erfahrung.skill_attributes.endurance.name": "Endurance",
+  "erfahrung.skill_attributes.fury.name": "Fury",
+  "erfahrung.skill_attributes.swiftness.name": "Swiftness",
+  "erfahrung.skill_attributes.leap.name": "Leap",
+  "erfahrung.skill_attributes.reach.name": "Reach",
+  "erfahrung.skill_attributes.wrath.name": "Wrath",
+  "erfahrung.skill_attributes.rampage.name": "Rampage",
+  "erfahrung.skill_attributes.bloodlust.name": "Bloodlust",
+  "erfahrung.skill_attributes.fortitude.name": "Fortitude",
+  "erfahrung.skill_attributes.steadfast.name": "Steadfast",
+  "erfahrung.skill_attributes.tenacity.name": "Tenacity",
+
   "bossbar.erfahrung.no_class": "Level %s",
   "bossbar.erfahrung.with_class_sp": "[%s] Level %s \u2022 %s SP \u2022 %s TP",
+  "bossbar.erfahrung.level_sp": "Level %s \u2022 %s SP",
 
   "command.erfahrung.console_needs_player": "Console must specify a player.",
   "command.erfahrung.no_match": "No matching player.",
@@ -35,6 +53,9 @@
   "command.erfahrung.traits.no_class": "Pick a class first with /class choose <class>.",
   "command.erfahrung.traits.no_sp": "Not enough skillpoints.",
   "command.erfahrung.traits.no_tp": "Not enough traitpoints.",
+
+  "command.erfahrung.skills.no_points": "Not enough skill points.",
+  "command.erfahrung.skills.unknown_tree": "Unknown skill tree: %s",
 
   "command.erfahrung.knowledge_orb.at_cap": "You are already at the level cap.",
 
@@ -82,6 +103,22 @@
   "ui.erfahrung.shop.info.page": "Page %1$s / %2$s",
   "ui.erfahrung.shop.info.balance": "%1$s: %2$s",
 
+  "ui.erfahrung.skills.title": "%s Skills",
+  "ui.erfahrung.skills.title.unknown": "Skills",
+  "ui.erfahrung.skills.preview.title": "Skills",
+  "ui.erfahrung.skills.preview.lore.open": "Click to open",
+  "ui.erfahrung.skills.info.level": "Level: %s",
+  "ui.erfahrung.skills.info.points": "Skillpoints: %s",
+  "ui.erfahrung.skills.lore.entry": "Skill tree root",
+  "ui.erfahrung.skills.lore.cost": "Cost: %s SP",
+  "ui.erfahrung.skills.lore.click_to_unlock": "Click to unlock",
+  "ui.erfahrung.skills.lore.need_points": "Not enough skill points",
+  "ui.erfahrung.skills.lore.owned": "Owned",
+  "ui.erfahrung.skills.lore.locked": "Skill an adjacent slot first",
+  "ui.erfahrung.skills.rankup.name": "Rank up: %s",
+  "ui.erfahrung.skills.rankup.lore": "Specialization gateway",
+  "ui.erfahrung.skills.rankup.taken_other": "Another specialization is already chosen",
+
   "ui.erfahrung.traits.title": "%s Traits",
   "ui.erfahrung.stats.title": "Stats",
   "ui.erfahrung.stats.lore.level": "Level: %s",
@@ -117,6 +154,19 @@
   "ui.erfahrung.traits.info.traitpoints": "Traitpoints: %s",
   "ui.erfahrung.traits.info.owned_count": "Traits owned: %s",
   "ui.erfahrung.traits.info.focused": "Focused: %s",
+
+  "trait.erfahrung.toughness": "Toughness",
+  "trait.erfahrung.toughness.description": "Always-on +1 armor.",
+  "trait.erfahrung.heavy_hand": "Heavy Hand",
+  "trait.erfahrung.heavy_hand.description": "Always-on +0.5 attack damage.",
+  "trait.erfahrung.vigor": "Vigor",
+  "trait.erfahrung.vigor.description": "Always-on +1 max HP (one heart).",
+  "trait.erfahrung.resolve": "Resolve",
+  "trait.erfahrung.resolve.description": "-5%% damage taken from all sources.",
+  "trait.erfahrung.bloodied": "Bloodied",
+  "trait.erfahrung.bloodied.description": "Heal 1 HP on every kill.",
+  "trait.erfahrung.hardened": "Hardened",
+  "trait.erfahrung.hardened.description": "Halves fall damage.",
 
   "trait.erfahrung.bloodrage": "Bloodrage",
   "trait.erfahrung.bloodrage.description": "+2 attack damage while below 50% HP.",
