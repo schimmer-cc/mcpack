@@ -23,12 +23,35 @@ jobs:
           rm -f erfahrung.zip
           zip -r erfahrung.zip pack.mcmeta assets LICENSE
 
+      - name: Compute SHA1
+        id: sha
+        run: echo "sha1=$(sha1sum erfahrung.zip | awk '{print $1}')" >> "$GITHUB_OUTPUT"
+
       - name: Publish release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHA1: ${{ steps.sha.outputs.sha1 }}
         run: |
           gh release delete latest --yes --cleanup-tag || true
           gh release create latest erfahrung.zip \
             --title "Latest" \
-            --notes "Built from ${{ github.sha }}" \
+            --notes "Built from ${{ github.sha }}
+SHA1: ${SHA1}" \
             --latest
+
+      - name: Notify minecraft repo
+        env:
+          GH_TOKEN: ${{ secrets.MINECRAFT_DISPATCH_TOKEN }}
+          SHA1: ${{ steps.sha.outputs.sha1 }}
+          COMMIT: ${{ github.sha }}
+        run: |
+          payload=$(jq -n \
+            --arg sha1 "$SHA1" \
+            --arg commit "$COMMIT" \
+            '{event_type:"resourcepack-updated",client_payload:{sha1:$sha1,commit:$commit,url:"https://github.com/schimmer-cc/mcpack/releases/download/latest/erfahrung.zip"}}')
+          curl -fsSL -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/schimmer-cc/minecraft/dispatches \
+            -d "$payload"
