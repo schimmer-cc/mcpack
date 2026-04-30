@@ -279,28 +279,5 @@
   "command.erfahrung.teleport.cancelled.damage": "Teleport abgebrochen — du hast Schaden erlitten.",
   "command.erfahrung.teleport.cancelled.quit": "Teleport abgebrochen.",
 
-  "hud.erfahrung.brand": "SCHIMMER.cc",
-  "hud.erfahrung.url": "mc.schimmer.cc",
-  "hud.erfahrung.build_instance": "[ Bau-Instanz ]",
-  "hud.erfahrung.label_online": "Online:",
-  "hud.erfahrung.label_lvl": "Lvl",
-  "hud.erfahrung.label_progress": "Fortschritt:",
-  "hud.erfahrung.label_coins": "Münzen:",
-  "hud.erfahrung.label_schimmer": "Schimmer:",
-  "hud.erfahrung.label_sp": "FP:",
-  "hud.erfahrung.label_tp": "MP:",
-  "hud.erfahrung.label_traits": "Eigenschaften:",
-  "hud.erfahrung.label_party": "Party:",
-  "hud.erfahrung.label_size": "Größe",
-  "hud.erfahrung.label_leader": "Leiter",
-  "hud.erfahrung.label_more": "weitere",
-
-  "rank.erfahrung.default": "Spieler",
-  "rank.erfahrung.builder": "Erbauer",
-  "rank.erfahrung.hausmeister": "Hausmeister",
-
-  "hud.erfahrung.server_lobby": "Lobby",
-  "hud.erfahrung.server_survival": "Überleben",
-
   "monster.erfahrung.level.name": "[Lv. %1$s] %2$s"
 }

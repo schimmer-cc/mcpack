@@ -279,28 +279,5 @@
   "command.erfahrung.teleport.cancelled.damage": "Teleport cancelled — you took damage.",
   "command.erfahrung.teleport.cancelled.quit": "Teleport cancelled.",
 
-  "hud.erfahrung.brand": "SCHIMMER.cc",
-  "hud.erfahrung.url": "mc.schimmer.cc",
-  "hud.erfahrung.build_instance": "[ build instance ]",
-  "hud.erfahrung.label_online": "Online:",
-  "hud.erfahrung.label_lvl": "Lvl",
-  "hud.erfahrung.label_progress": "Progress:",
-  "hud.erfahrung.label_coins": "Coins:",
-  "hud.erfahrung.label_schimmer": "Schimmer:",
-  "hud.erfahrung.label_sp": "SP:",
-  "hud.erfahrung.label_tp": "TP:",
-  "hud.erfahrung.label_traits": "Traits:",
-  "hud.erfahrung.label_party": "Party:",
-  "hud.erfahrung.label_size": "size",
-  "hud.erfahrung.label_leader": "leader",
-  "hud.erfahrung.label_more": "more",
-
-  "rank.erfahrung.default": "Player",
-  "rank.erfahrung.builder": "Builder",
-  "rank.erfahrung.hausmeister": "Hausmeister",
-
-  "hud.erfahrung.server_lobby": "Lobby",
-  "hud.erfahrung.server_survival": "Survival",
-
   "monster.erfahrung.level.name": "[Lv. %1$s] %2$s"
 }
