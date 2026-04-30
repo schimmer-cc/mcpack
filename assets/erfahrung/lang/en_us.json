@@ -4,6 +4,10 @@
   "class.erfahrung.berserker": "Berserker",
   "class.erfahrung.guardian": "Guardian",
   "class.erfahrung.vanguard": "Vanguard",
+  "class.erfahrung.fisher": "Fisher",
+  "class.erfahrung.butcher": "Butcher",
+  "class.erfahrung.farmer": "Farmer",
+  "class.erfahrung.cook": "Cook",
 
   "attribute.erfahrung.strength": "Strength",
   "attribute.erfahrung.strength.description": "Increases melee damage.",
@@ -147,6 +151,7 @@
   "ui.erfahrung.skills.rankup.name": "Rank up: %s",
   "ui.erfahrung.skills.rankup.lore": "Specialization gateway",
   "ui.erfahrung.skills.rankup.taken_other": "Another specialization is already chosen",
+  "ui.erfahrung.skills.lore.reclaim": "Click again to re-claim",
 
   "ui.erfahrung.traits.title": "%s Traits",
   "ui.erfahrung.stats.title": "Stats",
@@ -238,8 +243,31 @@
   "trait.erfahrung.spearhead": "Spearhead",
   "trait.erfahrung.spearhead.description": "+1 ATK and +10%% movement speed while sprinting.",
 
+  "trait.erfahrung.recipe_book": "Cook Book",
+  "trait.erfahrung.recipe_book.description": "Receive your cook book. Click again any time you've lost it to get a fresh one.",
+
   "item.erfahrung.knowledge_orb.name": "Knowledge Orb",
   "item.erfahrung.knowledge_orb.lore": "Right-click to gain 1 level.",
+
+  "item.erfahrung.cook_book.name": "Cook Book",
+  "item.erfahrung.cook_book.lore": "Right-click to browse your unlocked recipes.",
+
+  "ui.erfahrung.cookbook.title": "Cook Book",
+  "ui.erfahrung.cookbook.exit": "Close",
+  "ui.erfahrung.cookbook.empty.name": "No recipes yet",
+  "ui.erfahrung.cookbook.empty.lore": "Skill cook traits to learn new dishes.",
+  "ui.erfahrung.cookbook.page.prev": "← Previous page",
+  "ui.erfahrung.cookbook.page.next": "Next page →",
+  "ui.erfahrung.cookbook.info.name": "Cook Book",
+  "ui.erfahrung.cookbook.info.page": "Page %1$s / %2$s",
+  "ui.erfahrung.cookbook.info.count": "%s recipes unlocked",
+  "ui.erfahrung.cookbook.method.crafting": "Method: Crafting Table",
+  "ui.erfahrung.cookbook.method.cauldron": "Method: Cauldron",
+  "ui.erfahrung.cookbook.method.campfire": "Method: Campfire",
+  "ui.erfahrung.cookbook.lore.ingredients": "Ingredients:",
+  "ui.erfahrung.cookbook.lore.ingredient_entry": "%1$s × %2$s",
+  "ui.erfahrung.cookbook.lore.effects": "Effects:",
+  "ui.erfahrung.cookbook.lore.effect_entry": "%1$s %2$s (%3$ss)",
 
   "bossbar.erfahrung.party.title": "Party: %1$s • %2$s",
   "bossbar.erfahrung.party.solo": "(no partners)",
