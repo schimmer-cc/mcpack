@@ -300,5 +300,7 @@
   "rank.erfahrung.hausmeister": "Hausmeister",
 
   "hud.erfahrung.server_lobby": "Lobby",
-  "hud.erfahrung.server_survival": "Überleben"
+  "hud.erfahrung.server_survival": "Überleben",
+
+  "monster.erfahrung.level.name": "[Lv. %1$s] %2$s"
 }
