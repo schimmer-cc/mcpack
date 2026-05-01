@@ -307,5 +307,57 @@
   "command.erfahrung.teleport.cancelled.damage": "Teleport cancelled — you took damage.",
   "command.erfahrung.teleport.cancelled.quit": "Teleport cancelled.",
 
-  "monster.erfahrung.level.name": "[Lv. %1$s] %2$s"
+  "monster.erfahrung.level.name": "[Lv. %1$s] %2$s",
+
+  "ui.erfahrung.quests.title": "Daily Quests",
+
+  "ui.erfahrung.quests.difficulty":      "Difficulty: %s",
+  "ui.erfahrung.quests.difficulty.easy": "Easy",
+  "ui.erfahrung.quests.difficulty.hard": "Hard",
+  
+  "ui.erfahrung.quests.lore.progress":  "Progress: %s / %s",
+  "ui.erfahrung.quests.lore.reward":    "Reward: %s Schimmer  +  %s XP",
+  "ui.erfahrung.quests.shift_hint":     "Shift-click to reroll",
+  
+  "ui.erfahrung.quests.empty.easy.name": "No quest available",
+  "ui.erfahrung.quests.empty.easy.lore": "Come back tomorrow.",
+  "ui.erfahrung.quests.empty.hard.name": "No quest available",
+  "ui.erfahrung.quests.empty.hard.lore": "Unlock more traits to roll harder quests.",
+  
+  "ui.erfahrung.quests.completed":      "Quest complete: %s",
+  "ui.erfahrung.quests.completed.lore": "Completed — comes back tomorrow.",
+  
+  "ui.erfahrung.quests.reroll.title":              "Reroll quest?",
+  "ui.erfahrung.quests.reroll.confirm":            "Reroll",
+  "ui.erfahrung.quests.reroll.cost":               "Cost: %s Schimmer",
+  "ui.erfahrung.quests.reroll.cancel":             "Cancel",
+  "ui.erfahrung.quests.reroll.success":            "Rerolled — new quest: %s (%s Schimmer charged).",
+  "ui.erfahrung.quests.reroll.insufficient":       "Not enough Schimmer (need %s, have %s).",
+  "ui.erfahrung.quests.reroll.already_completed":  "That quest is already complete.",
+  "ui.erfahrung.quests.reroll.unavailable":        "No quest available to reroll right now.",
+
+  "quest.erfahrung.kill_zombies_easy.name":           "Slay the Undead",
+  "quest.erfahrung.kill_zombies_easy.desc":           "Kill %s zombies.",
+  
+  "quest.erfahrung.mine_cobblestone_easy.name":       "Quarry Run",
+  "quest.erfahrung.mine_cobblestone_easy.desc":       "Mine %s stone blocks.",
+  
+  "quest.erfahrung.gather_wood_easy.name":            "Lumberjack",
+  "quest.erfahrung.gather_wood_easy.desc":            "Chop %s oak logs.",
+  
+  "quest.erfahrung.cook_dishes_easy.name":            "Open Kitchen",
+  "quest.erfahrung.cook_dishes_easy.desc":            "Prepare %s dishes from your recipe book.",
+  
+  "quest.erfahrung.slay_wither_skeletons_hard.name":  "Skull Hunter",
+  "quest.erfahrung.slay_wither_skeletons_hard.desc":  "Slay %s wither skeletons in the Nether.",
+  
+  "quest.erfahrung.mine_diamond_hard.name":           "Deep Cuts",
+  "quest.erfahrung.mine_diamond_hard.desc":           "Mine %s diamond ore.",
+  
+  "quest.erfahrung.earn_schimmer_hard.name":          "Treasury Day",
+  "quest.erfahrung.earn_schimmer_hard.desc":          "Earn %s Schimmer from any source.",
+  
+  "quest.erfahrung.netherite_blaze_hunt_hard.name":   "Forged in Fire",
+  "quest.erfahrung.netherite_blaze_hunt_hard.desc":   "Slay %s blazes while wearing a netherite chestplate."
+
 }
