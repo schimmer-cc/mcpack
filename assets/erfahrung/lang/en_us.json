@@ -44,9 +44,9 @@
   "command.erfahrung.console_needs_player": "Console must specify a player.",
   "command.erfahrung.no_match": "No matching player.",
 
-  "command.erfahrung.level.display": "%s: %s \u2192 Level %s (%s%%)",
-  "command.erfahrung.level.set": "Set level for %s (now %s)",
-  "command.erfahrung.level.adjusted": "Adjusted level for %s (now %s)",
+  "command.erfahrung.level.display": "%s: %s XP \u2192 Level %s (%s%%)",
+  "command.erfahrung.level.set": "Set XP for %s (now %s XP)",
+  "command.erfahrung.level.adjusted": "Adjusted XP for %s (now %s XP)",
 
   "command.erfahrung.class.show": "%s: %s",
   "command.erfahrung.class.choose.self": "You are now a %s.",

@@ -44,9 +44,9 @@
   "command.erfahrung.console_needs_player": "Konsole muss einen Spieler angeben.",
   "command.erfahrung.no_match": "Kein passender Spieler.",
 
-  "command.erfahrung.level.display": "%s: %s \u2192 Level %s (%s%%)",
-  "command.erfahrung.level.set": "Level f\u00fcr %s gesetzt (jetzt %s)",
-  "command.erfahrung.level.adjusted": "Level f\u00fcr %s angepasst (jetzt %s)",
+  "command.erfahrung.level.display": "%s: %s EP \u2192 Level %s (%s%%)",
+  "command.erfahrung.level.set": "EP f\u00fcr %s gesetzt (jetzt %s EP)",
+  "command.erfahrung.level.adjusted": "EP f\u00fcr %s angepasst (jetzt %s EP)",
 
   "command.erfahrung.class.show": "%s: %s",
   "command.erfahrung.class.choose.self": "Du bist jetzt ein %s.",
