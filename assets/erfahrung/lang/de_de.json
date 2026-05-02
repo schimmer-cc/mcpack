@@ -307,5 +307,50 @@
   "command.erfahrung.teleport.cancelled.damage": "Teleport abgebrochen — du hast Schaden erlitten.",
   "command.erfahrung.teleport.cancelled.quit": "Teleport abgebrochen.",
 
-  "monster.erfahrung.level.name": "[Lv. %1$s] %2$s"
+  "monster.erfahrung.level.name": "[Lv. %1$s] %2$s",
+
+  "ui.erfahrung.questmenu.title":       "Quests",
+  "ui.erfahrung.questmenu.story.name":  "Story-Quests",
+  "ui.erfahrung.questmenu.story.lore":  "Begib dich auf die Hauptgeschichte.",
+  "ui.erfahrung.questmenu.daily.name":  "Tägliche Quests",
+  "ui.erfahrung.questmenu.daily.lore":  "Zufällige Tagesherausforderungen.",
+
+  "ui.erfahrung.story.title":           "Geschichte  ·  %s",
+  "ui.erfahrung.story.locked.name":     "Verschlossen",
+  "ui.erfahrung.story.locked.lore":     "Schließe zuerst „%s“ ab.",
+  "ui.erfahrung.story.completed.lore":  "Abgeschlossen.",
+  "ui.erfahrung.story.active.progress": "Fortschritt: %s / %s",
+  "ui.erfahrung.story.active.reward":   "Belohnung: %s Schimmer  +  %s EP",
+
+  "storyquest.erfahrung.main_story.line.name":             "Das Erwachen",
+
+  "storyquest.erfahrung.main_story.gather_first_logs.name": "Erste Stämme",
+  "storyquest.erfahrung.main_story.gather_first_logs.desc": "Hacke %s Eichenstämme.",
+
+  "storyquest.erfahrung.main_story.craft_workbench.name":   "Werkbank",
+  "storyquest.erfahrung.main_story.craft_workbench.desc":   "Stelle eine Werkbank her.",
+
+  "storyquest.erfahrung.main_story.forge_first_blade.name": "Erste Klinge",
+  "storyquest.erfahrung.main_story.forge_first_blade.desc": "Stelle ein Holzschwert her.",
+
+  "storyquest.erfahrung.main_story.first_kill.name":        "Taufe der Verwesung",
+  "storyquest.erfahrung.main_story.first_kill.desc":        "Erschlage %s Zombies.",
+
+  "storyquest.erfahrung.main_story.strike_stone.name":      "Steinschlag",
+  "storyquest.erfahrung.main_story.strike_stone.desc":      "Baue %s Steinblöcke ab.",
+
+  "storyquest.erfahrung.main_story.upgrade_pickaxe.name":   "Werkzeug des Handwerks",
+  "storyquest.erfahrung.main_story.upgrade_pickaxe.desc":   "Stelle eine Steinspitzhacke her.",
+
+  "storyquest.erfahrung.main_story.delve_for_iron.name":    "Eisenadern",
+  "storyquest.erfahrung.main_story.delve_for_iron.desc":    "Baue %s Eisenerz ab.",
+
+  "storyquest.erfahrung.main_story.steel_arm.name":         "Stählerner Arm",
+  "storyquest.erfahrung.main_story.steel_arm.desc":         "Schmiede ein Eisenschwert.",
+
+  "storyquest.erfahrung.main_story.trial_by_skeleton.name": "Prüfung der Knochen",
+  "storyquest.erfahrung.main_story.trial_by_skeleton.desc": "Erschlage %s Skelette.",
+
+  "storyquest.erfahrung.main_story.rest_well_earned.name":  "Wohlverdiente Rast",
+  "storyquest.erfahrung.main_story.rest_well_earned.desc":  "Schlafe in einem Bett."
 }

@@ -309,6 +309,51 @@
 
   "monster.erfahrung.level.name": "[Lv. %1$s] %2$s",
 
+  "ui.erfahrung.questmenu.title":       "Quests",
+  "ui.erfahrung.questmenu.story.name":  "Story Quests",
+  "ui.erfahrung.questmenu.story.lore":  "Embark on the main storyline.",
+  "ui.erfahrung.questmenu.daily.name":  "Daily Quests",
+  "ui.erfahrung.questmenu.daily.lore":  "Random daily challenges.",
+
+  "ui.erfahrung.story.title":           "Story  ·  %s",
+  "ui.erfahrung.story.locked.name":     "Locked",
+  "ui.erfahrung.story.locked.lore":     "Complete \"%s\" first.",
+  "ui.erfahrung.story.completed.lore":  "Completed.",
+  "ui.erfahrung.story.active.progress": "Progress: %s / %s",
+  "ui.erfahrung.story.active.reward":   "Reward: %s Schimmer  +  %s XP",
+
+  "storyquest.erfahrung.main_story.line.name":             "The Awakening",
+
+  "storyquest.erfahrung.main_story.gather_first_logs.name": "First Logs",
+  "storyquest.erfahrung.main_story.gather_first_logs.desc": "Chop %s oak logs.",
+
+  "storyquest.erfahrung.main_story.craft_workbench.name":   "Maker's Bench",
+  "storyquest.erfahrung.main_story.craft_workbench.desc":   "Craft a crafting table.",
+
+  "storyquest.erfahrung.main_story.forge_first_blade.name": "First Blade",
+  "storyquest.erfahrung.main_story.forge_first_blade.desc": "Craft a wooden sword.",
+
+  "storyquest.erfahrung.main_story.first_kill.name":        "Baptism by Rot",
+  "storyquest.erfahrung.main_story.first_kill.desc":        "Slay %s zombies.",
+
+  "storyquest.erfahrung.main_story.strike_stone.name":      "Strike Stone",
+  "storyquest.erfahrung.main_story.strike_stone.desc":      "Mine %s stone blocks.",
+
+  "storyquest.erfahrung.main_story.upgrade_pickaxe.name":   "Tools of the Trade",
+  "storyquest.erfahrung.main_story.upgrade_pickaxe.desc":   "Craft a stone pickaxe.",
+
+  "storyquest.erfahrung.main_story.delve_for_iron.name":    "Iron Veins",
+  "storyquest.erfahrung.main_story.delve_for_iron.desc":    "Mine %s iron ore.",
+
+  "storyquest.erfahrung.main_story.steel_arm.name":         "Steel Arm",
+  "storyquest.erfahrung.main_story.steel_arm.desc":         "Forge an iron sword.",
+
+  "storyquest.erfahrung.main_story.trial_by_skeleton.name": "Trial by Bone",
+  "storyquest.erfahrung.main_story.trial_by_skeleton.desc": "Slay %s skeletons.",
+
+  "storyquest.erfahrung.main_story.rest_well_earned.name":  "Well-Earned Rest",
+  "storyquest.erfahrung.main_story.rest_well_earned.desc":  "Sleep in a bed.",
+
   "ui.erfahrung.quests.title": "Daily Quests",
 
   "ui.erfahrung.quests.difficulty":      "Difficulty: %s",
