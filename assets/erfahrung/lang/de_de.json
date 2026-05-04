@@ -70,6 +70,12 @@
   "command.erfahrung.admin.respec.success": "%s neu verteilt.",
   "command.erfahrung.admin.respec.no_class": "%s hat keine Klasse zum Neuverteilen.",
 
+  "command.erfahrung.miniboss.unknown": "Unbekannter Mini-Boss: %s",
+  "command.erfahrung.miniboss.spawn.success": "%s bei %s gespawnt.",
+  "command.erfahrung.miniboss.spawn.failed": "Mini-Boss konnte hier nicht gespawnt werden.",
+  "command.erfahrung.miniboss.list.header": "Mini-Bosse (%s):",
+  "command.erfahrung.miniboss.list.entry": "  %s \u2014 %s",
+
   "command.erfahrung.currency.unknown": "Unbekannte W\u00e4hrung.",
   "command.erfahrung.currency.bad_amount": "Ung\u00fcltiger Betrag: %s",
   "command.erfahrung.currency.gave": "%1$s hat %2$s %3$s erhalten.",
@@ -100,6 +106,7 @@
   "command.erfahrung.currency.reason.admin_take": "Admin nehmen",
   "command.erfahrung.currency.reason.admin_set": "Admin setzen",
   "command.erfahrung.currency.reason.mob_drop": "Mob-Drop",
+  "command.erfahrung.currency.reason.mini_boss_kill": "Mini-Boss-Kill",
   "command.erfahrung.currency.reason.shop_buy": "Shop-Kauf",
   "command.erfahrung.currency.reason.shop_sell": "Shop-Verkauf",
   "command.erfahrung.currency.reason.pay_send": "gesendet",
@@ -308,6 +315,8 @@
   "command.erfahrung.teleport.cancelled.quit": "Teleport abgebrochen.",
 
   "monster.erfahrung.level.name": "[Lv. %1$s] %2$s",
+
+  "miniboss.erfahrung.rotten_warlord.name": "Verfaulter Kriegsherr",
 
   "ui.erfahrung.questmenu.title":       "Quests",
   "ui.erfahrung.questmenu.story.name":  "Story-Quests",
