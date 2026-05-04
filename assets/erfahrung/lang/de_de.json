@@ -352,5 +352,36 @@
   "storyquest.erfahrung.main_story.trial_by_skeleton.desc": "Erschlage %s Skelette.",
 
   "storyquest.erfahrung.main_story.rest_well_earned.name":  "Wohlverdiente Rast",
-  "storyquest.erfahrung.main_story.rest_well_earned.desc":  "Schlafe in einem Bett."
+  "storyquest.erfahrung.main_story.rest_well_earned.desc":  "Schlafe in einem Bett.",
+
+  "title.erfahrung.berserker.name":                         "Berserker",
+  "title.erfahrung.berserker.description":                  "Verliehen für das Freischalten der Berserker-Spezialisierung.",
+  "title.erfahrung.guardian.name":                          "Wächter",
+  "title.erfahrung.guardian.description":                   "Verliehen für das Freischalten der Wächter-Spezialisierung.",
+  "title.erfahrung.vanguard.name":                          "Vorhut",
+  "title.erfahrung.vanguard.description":                   "Verliehen für das Freischalten der Vorhut-Spezialisierung.",
+  "title.erfahrung.avatar_of_war.name":                     "Avatar des Krieges",
+  "title.erfahrung.avatar_of_war.description":              "Verliehen für das Meistern des Talents Avatar des Krieges.",
+  "title.erfahrung.last_stand.name":                        "Letzte Bastion",
+  "title.erfahrung.last_stand.description":                 "Verliehen für das Meistern des Talents Letzte Bastion.",
+  "title.erfahrung.spearhead.name":                         "Speerspitze",
+  "title.erfahrung.spearhead.description":                  "Verliehen für das Meistern des Talents Speerspitze.",
+  "title.erfahrung.chosen_one.name":                        "Auserwählter",
+  "title.erfahrung.chosen_one.description":                 "Verliehen für das Abschließen der Hauptgeschichte.",
+
+  "ui.erfahrung.titles.title":                              "Titel",
+  "ui.erfahrung.titles.lore.equipped":                      "Aktuell ausgerüstet.",
+  "ui.erfahrung.titles.lore.click_equip":                   "Klicken zum Ausrüsten.",
+  "ui.erfahrung.titles.lore.click_unequip":                 "Klicken zum Ablegen.",
+  "ui.erfahrung.titles.locked.name":                        "%s (gesperrt)",
+  "ui.erfahrung.titles.locked.rankup":                      "Freischalten durch Aufstieg: %s.",
+  "ui.erfahrung.titles.locked.trait":                       "Freischalten durch Meistern von: %s.",
+  "ui.erfahrung.titles.locked.story":                       "Freischalten durch Abschluss von: %s.",
+  "ui.erfahrung.titles.unequip.name":                       "Titel ablegen",
+  "ui.erfahrung.titles.unequip.active":                     "Aktuell ausgerüstet: %s.",
+  "ui.erfahrung.titles.unequip.none":                       "Kein Titel ausgerüstet.",
+
+  "command.erfahrung.titles.granted":                       "Neuer Titel erhalten: %s",
+  "command.erfahrung.titles.equipped":                      "%s ausgerüstet.",
+  "command.erfahrung.titles.unequipped":                    "Titel abgelegt."
 }
