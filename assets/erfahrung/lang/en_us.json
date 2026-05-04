@@ -695,6 +695,36 @@
   "quest.erfahrung.raid_won_hard.name":               "Hero of the Village",
   "quest.erfahrung.raid_won_hard.desc":               "Win %s raid.",
   "quest.erfahrung.trades_villager_hard.name":        "Bazaar",
-  "quest.erfahrung.trades_villager_hard.desc":        "Complete %s villager trades."
+  "quest.erfahrung.trades_villager_hard.desc":        "Complete %s villager trades.",
 
+  "title.erfahrung.berserker.name":                   "Berserker",
+  "title.erfahrung.berserker.description":            "Earned for unlocking the Berserker specialization.",
+  "title.erfahrung.guardian.name":                    "Guardian",
+  "title.erfahrung.guardian.description":             "Earned for unlocking the Guardian specialization.",
+  "title.erfahrung.vanguard.name":                    "Vanguard",
+  "title.erfahrung.vanguard.description":             "Earned for unlocking the Vanguard specialization.",
+  "title.erfahrung.avatar_of_war.name":               "Avatar of War",
+  "title.erfahrung.avatar_of_war.description":        "Earned by mastering the Avatar of War trait.",
+  "title.erfahrung.last_stand.name":                  "Last Stand",
+  "title.erfahrung.last_stand.description":           "Earned by mastering the Last Stand trait.",
+  "title.erfahrung.spearhead.name":                   "Spearhead",
+  "title.erfahrung.spearhead.description":            "Earned by mastering the Spearhead trait.",
+  "title.erfahrung.chosen_one.name":                  "Chosen One",
+  "title.erfahrung.chosen_one.description":           "Earned for completing the main story.",
+
+  "ui.erfahrung.titles.title":                        "Titles",
+  "ui.erfahrung.titles.lore.equipped":                "Currently equipped.",
+  "ui.erfahrung.titles.lore.click_equip":             "Click to equip.",
+  "ui.erfahrung.titles.lore.click_unequip":           "Click to unequip.",
+  "ui.erfahrung.titles.locked.name":                  "%s (locked)",
+  "ui.erfahrung.titles.locked.rankup":                "Unlock by ranking up: %s.",
+  "ui.erfahrung.titles.locked.trait":                 "Unlock by mastering: %s.",
+  "ui.erfahrung.titles.locked.story":                 "Unlock by completing: %s.",
+  "ui.erfahrung.titles.unequip.name":                 "Unequip Title",
+  "ui.erfahrung.titles.unequip.active":               "Currently equipped: %s.",
+  "ui.erfahrung.titles.unequip.none":                 "No title equipped.",
+
+  "command.erfahrung.titles.granted":                 "New title earned: %s",
+  "command.erfahrung.titles.equipped":                "Equipped %s.",
+  "command.erfahrung.titles.unequipped":              "Title unequipped."
 }
