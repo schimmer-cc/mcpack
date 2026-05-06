@@ -70,6 +70,12 @@
   "command.erfahrung.admin.respec.success": "Respec'd %s.",
   "command.erfahrung.admin.respec.no_class": "%s has no class to respec.",
 
+  "command.erfahrung.miniboss.unknown": "Unknown mini-boss: %s",
+  "command.erfahrung.miniboss.spawn.success": "Spawned %s at %s.",
+  "command.erfahrung.miniboss.spawn.failed": "Couldn't spawn the mini-boss at this location.",
+  "command.erfahrung.miniboss.list.header": "Mini-bosses (%s):",
+  "command.erfahrung.miniboss.list.entry": "  %s — %s",
+
   "command.erfahrung.currency.unknown": "Unknown currency.",
   "command.erfahrung.currency.bad_amount": "Invalid amount: %s",
   "command.erfahrung.currency.gave": "Gave %1$s %2$s %3$s.",
@@ -100,6 +106,7 @@
   "command.erfahrung.currency.reason.admin_take": "admin take",
   "command.erfahrung.currency.reason.admin_set": "admin set",
   "command.erfahrung.currency.reason.mob_drop": "mob drop",
+  "command.erfahrung.currency.reason.mini_boss_kill": "mini-boss kill",
   "command.erfahrung.currency.reason.shop_buy": "shop buy",
   "command.erfahrung.currency.reason.shop_sell": "shop sell",
   "command.erfahrung.currency.reason.pay_send": "pay sent",
@@ -308,6 +315,8 @@
   "command.erfahrung.teleport.cancelled.quit": "Teleport cancelled.",
 
   "monster.erfahrung.level.name": "[Lv. %1$s] %2$s",
+
+  "miniboss.erfahrung.rotten_warlord.name": "Rotten Warlord",
 
   "ui.erfahrung.questmenu.title":       "Quests",
   "ui.erfahrung.questmenu.story.name":  "Story Quests",
